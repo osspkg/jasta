@@ -6,7 +6,7 @@ require (
 	github.com/osspkg/go-sdk v1.3.6
 	github.com/osspkg/go-static v1.3.3
 	github.com/osspkg/goppy v0.12.10
-	golang.org/x/image v0.12.0
+	golang.org/x/image v0.13.0
 )
 
 require (
