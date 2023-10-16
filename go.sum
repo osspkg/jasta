@@ -7,8 +7,8 @@ github.com/mailru/easyjson v0.7.7 h1:UGYAvKxe3sBsEDzO8ZeWOSlIQfWFlxbzLZe7hwFURr0
 github.com/mailru/easyjson v0.7.7/go.mod h1:xzfreul335JAWq5oZzymOObrkdz5UnU4kGfJJLY9Nlc=
 github.com/osspkg/go-algorithms v1.2.6 h1:/eIZ1XlxZ2LRxtbOG4REA5KcR17F5E64+Y2cudJvfRU=
 github.com/osspkg/go-algorithms v1.2.6/go.mod h1:Zdclm/CKhDrUD34kIm9PL4VDbiey/jXAHY36nfc0r5Q=
-github.com/osspkg/go-sdk v1.3.6 h1:VcB5o3+c1uwkD2B0v4ZxOeaN/SN0QUr3Fktt8S3Le0M=
-github.com/osspkg/go-sdk v1.3.6/go.mod h1:/ZzPlvttlMyTLiDomDGJt7sqFz/RmkWXzrK5tifci14=
+github.com/osspkg/go-sdk v1.4.0 h1:VwJ8aJWeyfWGWc9qun7ZKAsfOLw+KnkpD9aGotmzZOU=
+github.com/osspkg/go-sdk v1.4.0/go.mod h1:5vH5xNT07Tcf+7howYLXffQTqXhGHWMSl8ToQmo2OWs=
 github.com/osspkg/go-static v1.3.3 h1:jqwE6zoucvgAAuh7MJ2spj2INhZeotq+LRlQzg1B5sg=
 github.com/osspkg/go-static v1.3.3/go.mod h1:PI0nuemvgmLuVgn3hIZMRFgQH6d1Iyn70Gs23Gl05qo=
 github.com/osspkg/goppy v0.12.10 h1:S7I3PNv1vR2puG9mBKq0FMq53Ye2qjbgW/cN6Khi2rA=
