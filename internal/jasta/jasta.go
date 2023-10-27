@@ -119,7 +119,7 @@ func doResponse(w http.ResponseWriter, root string, page string, page404 string,
 			return
 		}
 		if b, err = os.ReadFile(root + "/" + page404); err != nil {
-			w.WriteHeader(500)
+			w.WriteHeader(404)
 			return
 		}
 		code = 404
