@@ -15,8 +15,8 @@ github.com/rogpeppe/go-internal v1.11.0/go.mod h1:ddIwULY96R17DhadqLgMfk9H9tvdUz
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
 go.osspkg.com/algorithms v1.3.0 h1:rrKO440aNTofYJwGnOVsW00w0VRtZtu+BQrgXMXw7j4=
 go.osspkg.com/algorithms v1.3.0/go.mod h1:J2SXxHdqBK9ALGYJomA9XGvTOhIwMK0fvVw+KusYyoo=
-go.osspkg.com/goppy v0.14.0 h1:7YoNaSA+XIAy+lbIMEdmMIXH9Em+keNRMVvqP4+4jiE=
-go.osspkg.com/goppy v0.14.0/go.mod h1:NAWYk3WylEMTTcEgFiFEQsL69T/ox614gpuzlWyxlzg=
+go.osspkg.com/goppy v0.14.1 h1:bPYGep07AlvABuEcJIz6ySF7kMJYhticodycz6DNIOE=
+go.osspkg.com/goppy v0.14.1/go.mod h1:NAWYk3WylEMTTcEgFiFEQsL69T/ox614gpuzlWyxlzg=
 go.osspkg.com/static v1.4.0 h1:2uy4/11c0QP+QLMucKQZbAU+e6lhVHKw5dWJPTk/DBg=
 go.osspkg.com/static v1.4.0/go.mod h1:94YydVU3qUtb1J534486lpm+qg6CviQjqtxKlkpSppM=
 golang.org/x/image v0.13.0 h1:3cge/F/QTkNLauhf2QoE9zp+7sr+ZcL4HnoZmdwg9sg=
