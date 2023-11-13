@@ -5,7 +5,7 @@ go 1.20
 require (
 	go.osspkg.com/goppy v0.14.0
 	go.osspkg.com/static v1.4.0
-	golang.org/x/image v0.13.0
+	golang.org/x/image v0.14.0
 )
 
 require (
