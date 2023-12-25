@@ -3,14 +3,14 @@ module github.com/osspkg/jasta
 go 1.20
 
 require (
-	go.osspkg.com/goppy v0.15.8
-	go.osspkg.com/goppy/app v0.1.4
+	go.osspkg.com/goppy v0.15.9
+	go.osspkg.com/goppy/app v0.1.5
 	go.osspkg.com/goppy/console v0.1.0
 	go.osspkg.com/goppy/errors v0.1.0
 	go.osspkg.com/goppy/iofile v0.1.3
 	go.osspkg.com/goppy/plugins v0.1.1
 	go.osspkg.com/goppy/shell v0.1.0
-	go.osspkg.com/goppy/syscall v0.1.0
+	go.osspkg.com/goppy/syscall v0.1.1
 	go.osspkg.com/goppy/web v0.1.4
 	go.osspkg.com/goppy/xlog v0.1.4
 	go.osspkg.com/static v1.4.0
