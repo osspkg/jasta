@@ -10,7 +10,7 @@ require (
 	go.osspkg.com/goppy/iofile v0.1.3
 	go.osspkg.com/goppy/plugins v0.1.1
 	go.osspkg.com/goppy/shell v0.1.0
-	go.osspkg.com/goppy/syscall v0.1.0
+	go.osspkg.com/goppy/syscall v0.3.0
 	go.osspkg.com/goppy/web v0.1.4
 	go.osspkg.com/goppy/xlog v0.1.4
 	go.osspkg.com/static v1.4.0

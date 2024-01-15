@@ -28,8 +28,8 @@ go.osspkg.com/goppy/plugins v0.1.1 h1:ly/g8LyGQNhT9BLKLbhHejUuPho5atd4uJmitorQyv
 go.osspkg.com/goppy/plugins v0.1.1/go.mod h1:oolaNTq9VCWBAApLUFCHvWZ/7tMUhzLaqQEIxmLviNQ=
 go.osspkg.com/goppy/shell v0.1.0 h1:L/28FTiO+Mo+YxjKj1dwYI+1oJWgMq4RAfgS6aDSA1Q=
 go.osspkg.com/goppy/shell v0.1.0/go.mod h1:K6EnrxB2vD2Hpg1mJIkeQKcZ9VEAnX5pBWhMgUBBds0=
-go.osspkg.com/goppy/syscall v0.1.0 h1:qOkgnjRo4RlSyYDQiYzZqfmGUIO9tuIZZ/OKsvfC3+s=
-go.osspkg.com/goppy/syscall v0.1.0/go.mod h1:8MsNFOYAzNzGI6FE+0hmqLINQ5cxVkhqHUyirzENG9A=
+go.osspkg.com/goppy/syscall v0.3.0 h1:2PcpkqC1ol14HTOC+XyG+3lsuQ9pnG9ueE4xFywoSdE=
+go.osspkg.com/goppy/syscall v0.3.0/go.mod h1:Vz1BCzM8MmyC/26SjiVh6OGcAkky1y4xalSWbVceiL4=
 go.osspkg.com/goppy/web v0.1.4 h1:rvAU2nVLn5m37A8LgWvJcSC1xTkVgPruVm7BLAiyCE0=
 go.osspkg.com/goppy/web v0.1.4/go.mod h1:fHCxV/5F6ulR5FmCr3csDXI9D1tGVC0CZr5K7DGvsmQ=
 go.osspkg.com/goppy/xc v0.1.0 h1:e2231FumnLEf1OjqEtbRaUxz3FT9M8pZVKg0C0aTf7g=
