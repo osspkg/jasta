@@ -9,8 +9,8 @@ require (
 	go.osspkg.com/goppy/plugins v0.3.1
 	go.osspkg.com/goppy/shell v0.3.0
 	go.osspkg.com/goppy/syscall v0.3.0
-	go.osspkg.com/goppy/web v0.3.2
-	go.osspkg.com/goppy/xlog v0.3.1
+	go.osspkg.com/goppy/web v0.3.3
+	go.osspkg.com/goppy/xlog v0.3.2
 	go.osspkg.com/static v1.4.0
 )
 
