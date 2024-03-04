@@ -5,7 +5,7 @@ go 1.20
 require (
 	go.osspkg.com/goppy v0.17.3
 	go.osspkg.com/goppy/console v0.3.1
-	go.osspkg.com/goppy/iofile v0.3.1
+	go.osspkg.com/goppy/iofile v0.3.2
 	go.osspkg.com/goppy/plugins v0.3.1
 	go.osspkg.com/goppy/shell v0.3.0
 	go.osspkg.com/goppy/syscall v0.3.0
